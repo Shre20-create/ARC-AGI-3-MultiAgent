@@ -1,0 +1,12 @@
+ARC-AGI-3-MultiAgent
+│
+├── arc_agi3_submission.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+├── examples/
+├── assets/
+└── models/
