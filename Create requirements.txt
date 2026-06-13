@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+transformers
+accelerate
+llama-cpp-python
+tqdm
+sentencepiece
+protobuf
