@@ -1,1 +1,14 @@
 .gitignore
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.idea/
+models/
+*.gguf
+*.safetensors
+*.pth
+*.pt
+submission_results.json
+/kaggle/working/
